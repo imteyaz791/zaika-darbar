@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/zaika-darbar/static/css/main.8c6174ae.css",
-    "main.js": "/zaika-darbar/static/js/main.01504c71.js",
+    "main.css": "/zaika-darbar/static/css/main.c6d3988b.css",
+    "main.js": "/zaika-darbar/static/js/main.dd358330.js",
     "static/js/213.57d555bd.chunk.js": "/zaika-darbar/static/js/213.57d555bd.chunk.js",
     "static/js/455.47aa630a.chunk.js": "/zaika-darbar/static/js/455.47aa630a.chunk.js",
     "index.html": "/zaika-darbar/index.html",
-    "main.8c6174ae.css.map": "/zaika-darbar/static/css/main.8c6174ae.css.map",
-    "main.01504c71.js.map": "/zaika-darbar/static/js/main.01504c71.js.map",
+    "main.c6d3988b.css.map": "/zaika-darbar/static/css/main.c6d3988b.css.map",
+    "main.dd358330.js.map": "/zaika-darbar/static/js/main.dd358330.js.map",
     "213.57d555bd.chunk.js.map": "/zaika-darbar/static/js/213.57d555bd.chunk.js.map",
     "455.47aa630a.chunk.js.map": "/zaika-darbar/static/js/455.47aa630a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c6174ae.css",
-    "static/js/main.01504c71.js"
+    "static/css/main.c6d3988b.css",
+    "static/js/main.dd358330.js"
   ]
 }
