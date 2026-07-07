@@ -1,17 +1,13 @@
 {
   "files": {
-    "main.css": "/zaika-darbar/static/css/main.5055b21c.css",
-    "main.js": "/zaika-darbar/static/js/main.2e2943b8.js",
-    "static/js/213.57d555bd.chunk.js": "/zaika-darbar/static/js/213.57d555bd.chunk.js",
-    "static/js/455.47aa630a.chunk.js": "/zaika-darbar/static/js/455.47aa630a.chunk.js",
+    "main.css": "/zaika-darbar/static/css/main.3805abe2.css",
+    "main.js": "/zaika-darbar/static/js/main.f9e3ed6a.js",
     "index.html": "/zaika-darbar/index.html",
-    "main.5055b21c.css.map": "/zaika-darbar/static/css/main.5055b21c.css.map",
-    "main.2e2943b8.js.map": "/zaika-darbar/static/js/main.2e2943b8.js.map",
-    "213.57d555bd.chunk.js.map": "/zaika-darbar/static/js/213.57d555bd.chunk.js.map",
-    "455.47aa630a.chunk.js.map": "/zaika-darbar/static/js/455.47aa630a.chunk.js.map"
+    "main.3805abe2.css.map": "/zaika-darbar/static/css/main.3805abe2.css.map",
+    "main.f9e3ed6a.js.map": "/zaika-darbar/static/js/main.f9e3ed6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5055b21c.css",
-    "static/js/main.2e2943b8.js"
+    "static/css/main.3805abe2.css",
+    "static/js/main.f9e3ed6a.js"
   ]
 }
