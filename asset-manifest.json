@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zaika-darbar/static/css/main.07ac876f.css",
-    "main.js": "/zaika-darbar/static/js/main.9b1738a1.js",
+    "main.css": "/zaika-darbar/static/css/main.d9a71ebd.css",
+    "main.js": "/zaika-darbar/static/js/main.31f6a355.js",
     "index.html": "/zaika-darbar/index.html",
-    "main.07ac876f.css.map": "/zaika-darbar/static/css/main.07ac876f.css.map",
-    "main.9b1738a1.js.map": "/zaika-darbar/static/js/main.9b1738a1.js.map"
+    "main.d9a71ebd.css.map": "/zaika-darbar/static/css/main.d9a71ebd.css.map",
+    "main.31f6a355.js.map": "/zaika-darbar/static/js/main.31f6a355.js.map"
   },
   "entrypoints": [
-    "static/css/main.07ac876f.css",
-    "static/js/main.9b1738a1.js"
+    "static/css/main.d9a71ebd.css",
+    "static/js/main.31f6a355.js"
   ]
 }
